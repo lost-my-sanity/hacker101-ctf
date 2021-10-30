@@ -1,4 +1,4 @@
-# Hints
+# Hints Flag0
 
 * Take a look at the source for the page
 * Does anything seem out of the ordinary?
